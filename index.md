@@ -8,5 +8,5 @@
 
 There are only 2 buttons in the match – one to kick the ball, and one to change team tactics. The rest is handled by your players! It’s a fun, engaging mix between passively watching the match like Football Manager and having to position your players, pass, tackle, etc all on your own, like FIFA.
 
-### screenshots
-Here are some screenshots and a gameplay video!
+### privacy
+[**a la goal** privacy policy](privacy.html)
